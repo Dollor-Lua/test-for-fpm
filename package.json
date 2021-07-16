@@ -1,0 +1,13 @@
+{
+	"name": "test-for-fpm",
+	"description": "this is an example description",
+	"version": "1.0.0",
+	"main": "main.lua",
+	"author": {
+		"name": "Dollor-Lua",
+		"repository": "https://github.com/Dollor-Lua/test-for-fpm"
+	},
+	"serverSuffix": ".lua - WARNING: YOU CAN'T CHANGE THIS",
+	"localSuffix": ".local.lua",
+	"moduleSuffix": ".module.lua"
+}
